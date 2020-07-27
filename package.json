@@ -1,0 +1,26 @@
+{
+  "name": "desafio-node-cidades",
+  "version": "1.0.0",
+  "description": "trabalho modulo 2 bootcamp igti",
+  "main": "funcao.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giovanni-Ostemberg/desafio-node-cidades.git"
+  },
+  "keywords": [
+    "trabalho-pratic-",
+    "modulo2",
+    "igti",
+    "nodejs"
+  ],
+  "author": "Giovanni-Ostemberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giovanni-Ostemberg/desafio-node-cidades/issues"
+  },
+  "homepage": "https://github.com/Giovanni-Ostemberg/desafio-node-cidades#readme"
+}
